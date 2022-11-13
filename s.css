@@ -1,0 +1,31 @@
+@media (min-width:0px) and (max-width:600px){
+    footer{
+        background: #344b8e;
+    }
+    footer ul{
+        text-align: center;
+        padding: 20px 0px;
+        
+        }
+        footer li{
+            display: inline-block;
+            margin: 0px 4px;
+            padding: 0px 15px;
+       max-height: 10%;
+        }
+        footer a{
+        font-size: 10px;
+        font-weight: 500;
+       
+        }
+        footer a:hover{
+            background: #30b4e2;
+        }
+     .des{
+       font-size:10px ;
+     }
+   
+    }
+        
+     
+    

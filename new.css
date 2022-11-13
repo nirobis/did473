@@ -1,0 +1,122 @@
+*{
+box-sizing: border-box;
+}
+section{
+    padding: 10px 0px;
+}
+    header{
+    background: #87509c;}
+    .underline{
+        border-bottom: 3px solid rgba(0, 0, 0, 0.151);
+        width:5% ;
+        margin: auto;
+        /* margin-top: 10px; */
+       
+    }
+
+.dropdown-item:hover{
+background:rgba(0, 0, 0, 0.181);
+border-radius: 6px;
+}
+
+
+.bttun{
+background-color: #eb7d4b;
+border-color: #eb7d4b ;
+margin-top: 20px;}
+.bttun:hover{
+    background-color: #eb7d4b;
+
+    border-color: #eb7d4b ; 
+}
+#service{
+    background: #17c2a4;
+}
+#team{
+    background-color: #e7f1f8;
+}
+.team-icon i{
+    color: #ffffff;
+    background-color: #95a6c0;
+    padding:8px;
+    margin:10px 2px;
+    border-radius: 50%;
+    width: 40px;
+   }
+   .team-icon i:hover{
+    background-color: #59749c63 ;
+   }
+   #skill{
+    background-color: #ffffff;
+   }
+   #Protfolio{
+    background: #ffdd99;
+   }
+   .protfolio-btn button{
+    padding: 5px 15px;
+    margin: 0px 5px;
+    background:#ebc985;
+    margin-top: 20px;
+    border-color:#ebc985;
+   border-radius: 6px;
+   font-size: 10px;
+}
+.protfolio-btn button:hover{
+    background: #ffffff;
+    transition: ease-in-out 0.6s;
+}
+#about{
+    background: #d74680;
+}
+#contact{
+    background: #3c5499;
+}
+form input{
+    background: #273a71;
+   
+}
+form input::placeholder{
+    color: #ffffff;
+}
+
+.sun{
+    width: 50%;
+    padding:5px 0px;
+    margin-left: 50%;
+   
+}
+.moon{
+    width: 50%;
+    padding:5px 0px;
+    margin-right: 50%;
+}
+   
+textarea{
+    background: #273a71;
+   
+}
+textarea::placeholder{
+    color: #ffffff;
+}
+footer{
+    background: #344b8e;
+}
+footer ul{
+    text-align: center;
+    padding: 20px 0px;
+    
+    }
+    footer li{
+        display: inline-block;
+        margin: 0px 12px;
+        padding: 0px 30px;
+   max-height: 10%;
+    }
+    footer a{
+    font-size: 20px;
+    font-weight: 500;
+    }
+    footer a:hover{
+        background: #30b4e2;
+    }
+    
